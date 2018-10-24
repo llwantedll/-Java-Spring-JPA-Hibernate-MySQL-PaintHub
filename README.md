@@ -19,7 +19,7 @@ If you want to download and check this project on your computer do next:
         innodb_log_file_size = 256M
         innodb_log_buffer_size = 8M
       It will allow you to upload large images on server
-4. Start your MYSQL server, create new database, and import in it database TestSi/painthubdb.sql 
+4. Start your MYSQL server, create new database, and import in it database image.sql 
 5. In your environment open file TestSi/src/main/webapp/resources/database.properties
    and replace connection data on yours.
 6. Deploy
